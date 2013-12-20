@@ -1,4 +1,4 @@
-part of start;
+part of webstart;
 
 class Route {
   String _method, _dir;

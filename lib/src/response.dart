@@ -1,4 +1,4 @@
-part of start;
+part of webstart;
 
 class Response {
   HttpResponse _response;

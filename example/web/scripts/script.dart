@@ -1,7 +1,7 @@
 import 'dart:html';
 import 'dart:convert';
 
-import 'package:start/socket.dart';
+import 'package:webstart/socket.dart';
 
 main() {
   var socket = new Socket('ws://127.0.0.1:3000/socket');

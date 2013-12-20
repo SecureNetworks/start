@@ -1,4 +1,4 @@
-part of start;
+part of webstart;
 
 class Request {
   HttpRequest _request;

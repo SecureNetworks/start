@@ -1,4 +1,4 @@
-import 'package:start/start.dart';
+import 'package:webstart/start.dart';
 
 void main() {
   start(public: 'web', port: 3000).then((Server app) {

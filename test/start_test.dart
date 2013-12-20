@@ -6,8 +6,8 @@ import 'dart:io' hide Socket;
 import 'package:unittest/unittest.dart';
 import 'package:unittest/mock.dart';
 
-import 'package:start/start.dart';
-import 'package:start/src/message.dart';
+import 'package:webstart/start.dart';
+import 'package:webstart/src/message.dart';
 
 part 'message_test.dart';
 part 'socket_test.dart';

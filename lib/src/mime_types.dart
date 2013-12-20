@@ -1,4 +1,4 @@
-part of start;
+part of webstart;
 
 const EXT_TO_CONTENT_TYPE = const {
   ".txt": "text/plain; charset=utf-8",  // Assumes UTF-8 files.

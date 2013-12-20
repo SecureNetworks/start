@@ -1,4 +1,4 @@
-part of start;
+part of webstart;
 
 class Socket implements SocketBase {
   WebSocket _ws;

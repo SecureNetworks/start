@@ -1,4 +1,4 @@
-library start;
+library webstart;
 
 import 'dart:io' hide Socket;
 import 'dart:async';

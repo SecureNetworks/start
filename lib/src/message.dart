@@ -1,4 +1,4 @@
-library start_message;
+library webstart_message;
 
 import 'dart:convert';
 

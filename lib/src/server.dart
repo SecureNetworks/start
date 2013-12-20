@@ -1,4 +1,4 @@
-part of start;
+part of webstart;
 
 typedef void HttpHandler(Request req, Response r);
 typedef void WsHandler(Socket s);
